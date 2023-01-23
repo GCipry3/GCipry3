@@ -82,10 +82,5 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=gcipry3&show_icons=true&locale=en&layout=compact"
-        alt="gcipry3" />
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcipry3&show_icons=true&locale=en"
         alt="gcipry3" /></p>
