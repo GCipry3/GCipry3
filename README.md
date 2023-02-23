@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcipry3&label=Profile%20views&color=0e75b6&style=flat"
         alt="gcipry3" /> </p>
+- 🧑‍💼 I'm a passionate Software Developer at **Continental Automotive Romania**
 
 - 🔭 I’m currently working on [SocialApp](https://github.com/GCipry3/SocialApp)
 
-- 🌱 I’m currently learning **AWS , JavaScript , Rest API , Bootstrap**
+- 🌱 I’m currently learning **AWS , Jenkins , Rest API**
 
 - 👨‍💻 All of my projects and experiences are available at [https://cipriangalbeaza.com/](https://cipriangalbeaza.com/)
 
