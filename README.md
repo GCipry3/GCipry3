@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects and experiences are available at [https://cipriangalbeaza.com/](https://cipriangalbeaza.com/)
+- 👨‍💻 All of my projects and experiences are available at my personal website [cipriangalbeaza.com](https://cipriangalbeaza.com/)
 
 - 📫 How to reach me **galbeazaciprian30@gmail.com** or on **[Linkedin](https://www.linkedin.com/in/ciprian-galbeaza-860316219)**
 
