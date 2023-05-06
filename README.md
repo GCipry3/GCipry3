@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ciprian</h1>
-<h3 align="center">I am a passionate and hardworking student who enjoys taking on new challenges and learning new
-    things. I am quick to learn and put in the effort to succeed, with a strong interest in exploring new areas within
-    the field of Computer Science.</h3>
+<h3 align="center">I am a dedicated and driven student who loves to tackle new challenges and expand my knowledge. Learning is something that excites me, and I am always eager to put in the hard work necessary to achieve success. My particular interest lies in exploring different aspects of Computer Science, and I am constantly seeking out new opportunities to broaden my understanding of the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcipry3&label=Profile%20views&color=0e75b6&style=flat"
         alt="gcipry3" /> </p>
  
-- 🧑‍💼 I'm a passionate Software Developer at **Continental Automotive Romania**
+- 🧑‍💼 I'm a passionate **Software Developer** at **Continental Automotive Romania**
 
-- 🔭 I’m currently working on [SocialApp](https://github.com/GCipry3/SocialApp)
+- 🔭 I’m currently working on **[Casino Project](https://github.com/GCipry3/Casino)**
 
-- 🌱 I’m currently learning **AWS , Jenkins , Rest API**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects and experiences are available at [https://cipriangalbeaza.com/](https://cipriangalbeaza.com/)
 
-- 📫 How to reach me **galbeazaciprian30@gmail.com**
+- 📫 How to reach me **galbeazaciprian30@gmail.com** or on **[Linkedin](https://www.linkedin.com/in/ciprian-galbeaza-860316219)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
