@@ -6,7 +6,7 @@
  
 - 🧑‍💼 I'm a passionate **Software Developer** at **Continental Automotive Romania**
 
-- 🔭 I’m currently working on **[Casino Project](https://github.com/GCipry3/Casino)**
+- 🔭 I’m currently working on **[Contact Manager](https://github.com/GCipry3/ContactManager)**
 
 - 🌱 I’m currently learning **AWS**
 
