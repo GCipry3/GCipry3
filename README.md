@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcipry3&label=Profile%20views&color=0e75b6&style=flat"
         alt="gcipry3" /> </p>
  
-- 🧑‍💼 I'm a passionate **Software Developer** at **Continental Automotive Romania**
+- 🧑‍💼 I'm a passionate **Software Engineer** at **Bitdefender**
 
 - 🔭 I’m currently working on **[Contact Manager](https://github.com/GCipry3/ContactManager)**
 
