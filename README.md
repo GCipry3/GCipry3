@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **[Contact Manager](https://github.com/GCipry3/ContactManager)**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Time Series Forecast Models**
 
-- 👨‍💻 All of my projects and experiences are available at my personal website [cipriangalbeaza.com](https://cipriangalbeaza.com/)
-
-- 📫 How to reach me **galbeazaciprian30@gmail.com** or on **[Linkedin](https://www.linkedin.com/in/ciprian-galbeaza-860316219)**
+- 📫 How to reach me **galbeazaciprian30@gmail.com** or on **[Linkedin](https://www.linkedin.com/in/ciprian-galbeaza)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
